@@ -28,7 +28,7 @@ class _PP1State extends State<PP1> {
               child: Column
               (children:<Widget> [
               SizedBox(height: 310,),
-              Text("position of the bargraph"),
+              Text("Position of the bargraph"),
               SizedBox(height: 120,),
       ],),
             ),
